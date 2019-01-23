@@ -1,3 +1,13 @@
+# React Init Project 
+###### 누구든지 하는 리액트: 초심자를 위한 react 핵심강좌(https://www.inflearn.com/course/react-velopert)
+
+이름과 전화번호부를 입력해 저장하는 간단한 전화번호부 서비스입니다. CRUD와 검색 기능이 있습니다. Inflearn의 '누구든지 하는 리엑트: 초심자를 위한 react 핵심강좌(https://www.inflearn.com/course/react-velopert)'를 따라가며 만들었습니다. 
+
+추후 강의의 핵심 내용에 대해 정리할 예정입니다.
+
+아래는 Create React App으로 만들어진 프로젝트에 대한 기본생성된 README.md 내용입니다.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
